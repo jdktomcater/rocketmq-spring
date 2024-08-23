@@ -197,6 +197,7 @@
         <module>rocketmq-v5-client-spring-boot</module>
         <module>rocketmq-v5-client-spring-boot-parent</module>
         <module>rocketmq-v5-client-spring-boot-starter</module>
+        <module>rocketmq-v5-client-spring-boot-samples</module>
         <module>rocketmq-spring-boot-samples</module>
     </modules>
 
